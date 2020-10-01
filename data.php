@@ -9,36 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
     <title>Data of employed</title>
-    <style>
-        body{
-            margin: 0;
-            padding: 0;
-        }
-        .container{
-            background-color: skyblue;
-            height: 500px;
-            width: 90%;
-            margin-left: 5.4%;
-            margin-top: 40px;
-        }
-        .tb-title{
-            background-color: #151212;
-            color: white;
-            width: 700px;
-            height: 35px;
-            text-align: center;
-            border: 2px solid #151212;
-            font-family: Arial;
-        }
-        .td-result{
-            background-color: #e8e8e8;
-            height: 37px;
-            font-family: monospace;
-            font-size: 13px;
-            text-align: center;
-        }
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
     <div class="container">
