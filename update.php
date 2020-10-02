@@ -17,53 +17,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Update</title>
-    <style>
-        body{
-            background-color: beige;
-            font-size: 30px;
-            font-family: verdana;
-            color: brown;
-            margin: 0;
-            padding: 0;
-        }
-        ::placeholder{
-            font-family: verdana;
-            text-align: center;
-        }
-        h3{
-            text-align: center;
-            font-style: italic;
-        }
-        .container{
-            background-color: white;
-            height: 470px;
-            width: 400px;
-            margin-left: 30%;
-        }
-        .box{
-            height: 20px;
-            width: 200px;
-            margin-left: 40px;
-            margin-bottom: 10px;
-        }
-        .opt{
-            height: 30px;
-            width: 75px;
-            margin-left: 10px;
-            font-family: verdana;
-        }
-        .btn{
-            color: white;
-            font-family: verdana;
-            background-color: #7f23a5;
-            border: 2px solid #7f23a5;
-            border-radius: 5px;
-            height: 30px;
-            width: 70px;
-            margin-left: 40px;
-            margin-top: 30px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
     <h3>Update the data</h3>
